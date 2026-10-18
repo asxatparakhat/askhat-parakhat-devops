@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: askhat-parakhat-devops
+    container_name: askhat-parakhat-container
+    environment:
+      STUDENT_NAME: Parakhat
+      STUDENT_SURNAME: Askhat
+      STUDENT_GROUP: IT2-2301
+      STUDENT_ID: "41534"
