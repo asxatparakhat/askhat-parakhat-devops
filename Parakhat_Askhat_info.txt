@@ -1,5 +1,5 @@
-Name: Parakhat
-Surname: Askhat
+Name: Askhat
+Surname: Parakhat
 Group: IT2-2301
 Student ID: 41534
 Course: DevOps

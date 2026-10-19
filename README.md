@@ -1,1 +1,1 @@
-# Askhat Parakhat DevOps Project
+# Parakhat Askhat DevOps Project

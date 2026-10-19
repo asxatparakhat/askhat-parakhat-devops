@@ -2,8 +2,8 @@
 echo "=============================="
 echo "Student Information"
 echo "=============================="
-echo "Name: Parakhat"
-echo "Surname: Askhat"
+echo "Name: Askhat"
+echo "Surname: Parakhat"
 echo "Group: IT2-2301"
 echo "Student ID: 41534"
 echo "=============================="
@@ -18,7 +18,7 @@ df -h /
 echo "Memory Usage:"
 free -h
 
-INFO_FILE="$(dirname "$0")/../Askhat_Parakhat_info.txt"
+INFO_FILE="$(dirname "$0")/../Parakhat_Askhat_info.txt"
 if [ -f "$INFO_FILE" ]; then
     echo "Student information file exists."
 else
